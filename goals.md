@@ -36,7 +36,7 @@
 Get through all of the newbie/junior/beginner/intermediate challenges that use Javascript.
 
 ### Newbie
-* [ ] Article preview component(https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
+* [ ] [Article preview component](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
 * [ ] Coding bootcamp testimonials slider
 
 ### Junior
