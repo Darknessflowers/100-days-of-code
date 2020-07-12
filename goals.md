@@ -3,7 +3,7 @@
 [30 Days of Javascript](https://github.com/Darknessflowers/100-days-of-code/blob/master/goals.md#30-days-of-javascript) | [Front End Mentor Challenges](https://github.com/Darknessflowers/100-days-of-code/blob/master/goals.md#frontend-mentor-challenges) | [Other projects](https://github.com/Darknessflowers/100-days-of-code/blob/master/goals.md#projects-to-try-build)
 
 ## 30 Days of Javascript:
-* [ ] Day 1
+* [x] Day 1
 * [ ] Day 2
 * [ ] Day 3
 * [ ] Day 4
