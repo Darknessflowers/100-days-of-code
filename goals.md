@@ -60,3 +60,16 @@ Get through all of the newbie/junior/beginner/intermediate challenges that use J
 ### Advanced
 * [ ] [REST Countries API with color theme switcher](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
 * [ ] [Rock, Paper, Scissors game](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH)
+
+## Projects to try build
+* [ ] Build a calculator
+* [ ] Countdown timer
+* [ ] Notepad app with bold/italic functionality 
+* [ ] Magic 8 ball
+* [ ] Dice rolling simulator
+* [ ] Pomodoro timer
+* [ ] Hangman game
+* [ ] Pokemon style game
+* [ ] Memory (card game)
+* [ ] Password generator
+* [ ] To-Do app with ordering
