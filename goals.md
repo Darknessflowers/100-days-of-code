@@ -39,10 +39,24 @@ Get through all of the newbie/junior/beginner/intermediate challenges that use J
 
 ### Newbie
 * [ ] [Article preview component](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
-* [ ] Coding bootcamp testimonials slider
+* [ ] [Coding bootcamp testimonials slider](https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* [ ] [Base Apparel coming soon page](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0)
+* [ ] [Intro component with sign-up form](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1)
+* [ ] [Ping single column coming soon page](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da)
 
 ### Junior
-
-### Beginner
+* [ ] [Social media dashboard with theme switcher](https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H)
+* [ ] [Insure landing page](https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8) - Redo using Javascript
+* [ ] [Pricing component with toggle](https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC)
+* [ ] [Project tracking intro component](https://www.frontendmentor.io/challenges/project-tracking-intro-component-5d289097500fcb331a67d80e)
 
 ### Intermediate
+* [ ] [Jobs listings with filtering](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt)
+* [ ] [Easybank landing page](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)
+* [ ] [Manage landing page](https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5)
+* [ ] [URL shortening API landing page](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G)
+* [ ] [Bookmark landing page](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158)
+
+### Advanced
+* [ ] [REST Countries API with color theme switcher](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
+* [ ] [Rock, Paper, Scissors game](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH)
