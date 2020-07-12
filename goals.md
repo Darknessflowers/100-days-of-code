@@ -1,5 +1,7 @@
 # Goals and Ideas:
 
+[30 Days of Javascript](https://github.com/Darknessflowers/100-days-of-code/blob/master/goals.md#30-days-of-javascript) | [Front End Mentor Challenges](https://github.com/Darknessflowers/100-days-of-code/blob/master/goals.md#frontend-mentor-challenges)
+
 ## 30 Days of Javascript:
 * [ ] Day 1
 * [ ] Day 2
