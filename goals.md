@@ -32,7 +32,15 @@
 * [ ] Day 29
 * [ ] Day 30
 
-## Frontend Mentor
+## Frontend Mentor Challenges
 Get through all of the newbie/junior/beginner/intermediate challenges that use Javascript.
-1. Article preview component (Newbie)
-1. Coding bootcamp testimonials slider (newbie)
+
+### Newbie
+* [ ] Article preview component(https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
+* [ ] Coding bootcamp testimonials slider
+
+### Junior
+
+### Beginner
+
+### Intermediate
