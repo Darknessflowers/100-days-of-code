@@ -47,7 +47,7 @@ Get through all of the newbie/junior/beginner/intermediate challenges that use J
 ### Junior
 * [ ] [Social media dashboard with theme switcher](https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-6oY8ozp_H)
 * [ ] [Insure landing page](https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8) - Redo using Javascript
-* [ ] [Pricing component with toggle](https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC)
+* [x] [Pricing component with toggle](https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC)
 * [ ] [Project tracking intro component](https://www.frontendmentor.io/challenges/project-tracking-intro-component-5d289097500fcb331a67d80e)
 
 ### Intermediate
