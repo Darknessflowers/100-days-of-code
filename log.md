@@ -2,11 +2,17 @@
 
 ### Day 1: 18 July, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Started the pricing toggle challenge from Front End Mentor. 
 
-**Thoughts:** 
+**Thoughts:** I had fun, though I didn't get stretched too far outside of my comfort zone today.
 
-**Link to work:** 
+### Day 2: 19 July, 2020
+
+**Today's Progress**: I switched the toggler from a basic button to a styled checkbox. I also made it to so that the prices would change when using the arrow keys.
+
+**Thoughts:** Biggest challenges were in some fiddly CSS bits, which was surprising. The hardest part was knowing what event listener to use for the checkbox. 
+
+**Link to work:** [Pricing Component Demo](https://darknessflowers.github.io/Pricing-Toggle/)
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
