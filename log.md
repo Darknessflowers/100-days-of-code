@@ -14,7 +14,7 @@
 
 **Link to work:** [Pricing Component Demo](https://darknessflowers.github.io/Pricing-Toggle/)
 
-### Day 2: 20 July, 2020
+### Day 3: 20 July, 2020
 
 **Today's Progress**: I only had an hour, so I worked on the Social Media Dashboard challenge from Front End Mentor. I had started it a month or so ago, but had gotten bored after doing the Javascript first. 
 
