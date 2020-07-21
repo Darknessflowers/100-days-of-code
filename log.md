@@ -19,6 +19,13 @@
 **Today's Progress**: I only had an hour, so I worked on the Social Media Dashboard challenge from Front End Mentor. I had started it a month or so ago, but had gotten bored after doing the Javascript first. 
 
 **Thoughts:** After taking a break from this I found that I still had fun working on this. I realised that my plan of doing everything as borders was not a good one since I could not do the gradient for Instagram. I ended up having to switch it to a before element.
+
+### Day 4: 21 July, 2020
+
+**Today's Progress**: Worked on the styling for the Social Media Dashboard. A lot of tedious HTML.
+
+**Thoughts:** It was tedious but I am looking forward to finishing tomorrow and working on something else.
+
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
