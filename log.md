@@ -2,13 +2,13 @@
 
 ### Day 1: 18 July, 2020
 
-**Today's Progress**: Started the pricing toggle challenge from Front End Mentor. 
+**Today's Progress:** Started the pricing toggle challenge from Front End Mentor. 
 
 **Thoughts:** I had fun, though I didn't get stretched too far outside of my comfort zone today.
 
 ### Day 2: 19 July, 2020
 
-**Today's Progress**: I switched the toggler from a basic button to a styled checkbox. I also made it to so that the prices would change when using the arrow keys.
+**Today's Progress:** I switched the toggler from a basic button to a styled checkbox. I also made it to so that the prices would change when using the arrow keys.
 
 **Thoughts:** Biggest challenges were in some fiddly CSS bits, which was surprising. The hardest part was knowing what event listener to use for the checkbox. 
 
@@ -16,15 +16,25 @@
 
 ### Day 3: 20 July, 2020
 
-**Today's Progress**: I only had an hour, so I worked on the Social Media Dashboard challenge from Front End Mentor. I had started it a month or so ago, but had gotten bored after doing the Javascript first. 
+**Today's Progress:** I only had an hour, so I worked on the Social Media Dashboard challenge from Front End Mentor. I had started it a month or so ago, but had gotten bored after doing the Javascript first. 
 
 **Thoughts:** After taking a break from this I found that I still had fun working on this. I realised that my plan of doing everything as borders was not a good one since I could not do the gradient for Instagram. I ended up having to switch it to a before element.
 
 ### Day 4: 21 July, 2020
 
-**Today's Progress**: Worked on the styling for the Social Media Dashboard. A lot of tedious HTML.
+**Today's Progress:** Worked on the styling for the Social Media Dashboard. A lot of tedious HTML.
 
 **Thoughts:** It was tedious but I am looking forward to finishing tomorrow and working on something else.
+
+### Day 5: 22 July, 2020
+
+**Today's Progress**: I finished the Social Media Dashboard from Frontend Mentor. I ended up completely switching the theme toggle from using data attributed to just having a light and a dark class. I was encountering issues with the checkbox remembering if it was ticked before page refresh, so I set it so that it would set the theme on page load as well as on the clicking of the toggle.
+
+In the afternoon I designed a page for a Magic 8 Ball, and coded the design for it. I haven't had time to start on the Javascript but have written the pseudo code.
+
+**Thoughts:** I had fun today. I was able to get in the zone, and I finally had time to work on it for more than an hour. I was going to work towards finishing the Beginner Javascript course, but in the end decided I needed something that would test me more on what I have already learnt. 
+
+**Link to work:** [Social Media Dashboard](https://darknessflowers.github.io/Social-Media-Dashboard/)
 
 <!-- 
 ### Day 0: February 30, 2016 (Example 2)
